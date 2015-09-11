@@ -5,3 +5,4 @@ C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\b
 C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\TestProjectGitBase.csprojResolveAssemblyReference.cache
 C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\TestProjectGitBase.dll
 C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\TestProjectGitBase.pdb
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\ResolveAssemblyReference.cache
