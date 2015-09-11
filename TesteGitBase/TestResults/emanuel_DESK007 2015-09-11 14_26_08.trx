@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9a7dfdca-40c5-4479-9375-bf6d4ce59709" name="emanuel@DESK007 2015-09-11 14:26:08" runUser="CRONNUS\emanuel" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8ad6501e-6e20-41f6-8611-6279631e35c3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="emanuel_DESK007 2015-09-11 14_26_08">
+      <DeploymentItem filename="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\bin\TesteGitBase.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-09-11T14:26:08.3726943-03:00" queuing="2015-09-11T14:26:08.4176969-03:00" start="2015-09-11T14:26:08.4486986-03:00" finish="2015-09-11T14:26:08.6457099-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Class1ConstructorTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="87e9c074-17e6-8ed6-4023-5efd8b485db2">
+      <Execution id="34ff736f-7dbc-48f7-89c4-12c9cc6eca65" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase.Class1Test, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Class1ConstructorTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="87e9c074-17e6-8ed6-4023-5efd8b485db2" executionId="34ff736f-7dbc-48f7-89c4-12c9cc6eca65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="34ff736f-7dbc-48f7-89c4-12c9cc6eca65" testId="87e9c074-17e6-8ed6-4023-5efd8b485db2" testName="Class1ConstructorTest" computerName="DESK007" duration="00:00:00.1010058" startTime="2015-09-11T14:26:08.4927011-03:00" endTime="2015-09-11T14:26:08.5937069-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34ff736f-7dbc-48f7-89c4-12c9cc6eca65">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test 'Class1ConstructorTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

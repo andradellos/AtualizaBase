@@ -2,4 +2,3 @@ C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\bin\Tes
 C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\bin\TesteGitBase.pdb
 C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\obj\Debug\TesteGitBase.dll
 C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\obj\Debug\TesteGitBase.pdb
-C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\obj\Debug\ResolveAssemblyReference.cache

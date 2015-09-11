@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="add99279-ffa8-458d-8aff-14e22369d012" name="emanuel@DESK007 2015-09-11 14:27:11" runUser="CRONNUS\emanuel" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8ad6501e-6e20-41f6-8611-6279631e35c3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="emanuel_DESK007 2015-09-11 14_27_11">
+      <DeploymentItem filename="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase\bin\TesteGitBase.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-09-11T14:27:11.4893043-03:00" queuing="2015-09-11T14:27:11.5303067-03:00" start="2015-09-11T14:27:11.5343069-03:00" finish="2015-09-11T14:27:13.0083912-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="6" executed="6" error="6" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="DESK007" outcome="Warning" timestamp="2015-09-11T14:27:11.5303067-03:00">
+        <Text>Deployment is currently disabled. The deployment item 'TesteGitBase.dll' on test 'TestProjectGitBase._DefaultTest.Page_LoadTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Page_LoadTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="4090b425-6fa8-d52f-56a0-55764a18eaf0">
+      <DeploymentItems>
+        <DeploymentItem filename="TesteGitBase.dll" />
+      </DeploymentItems>
+      <Execution id="14b1aefa-aaf0-48df-8725-b5237927e9a3" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase._DefaultTest, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Page_LoadTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+    <UnitTest name="_DefaultConstructorTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="fb25a13f-3b2b-0a0c-9a13-0752738746fb">
+      <Execution id="3d757f42-f74b-421c-a2d7-cd2de3d19330" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase._DefaultTest, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="_DefaultConstructorTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+    <UnitTest name="SomaTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="371ec745-ddd5-cb6e-3e66-51cc2fdc4898">
+      <Execution id="ad2d7f2c-3956-448b-b4af-fc42e25eff6f" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase.Class1Test, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SomaTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+    <UnitTest name="valorDoisTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="1d9f81c7-34cd-243f-0d45-4dd2adc116ae">
+      <DeploymentItems>
+        <DeploymentItem filename="TesteGitBase.dll" />
+      </DeploymentItems>
+      <Execution id="74c827eb-98f7-41b2-b936-2ffd035f3c2e" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase.Class1Test, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="valorDoisTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+    <UnitTest name="valorUmTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="03bacf08-4ff0-c25e-7cc4-96d7c3017ec1">
+      <DeploymentItems>
+        <DeploymentItem filename="TesteGitBase.dll" />
+      </DeploymentItems>
+      <Execution id="7bea81e6-4d96-465d-9607-376770bae5c3" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase.Class1Test, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="valorUmTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+    <UnitTest name="Class1ConstructorTest" storage="c:\users\emanuel\documents\github\atualizabase\testegitbase\testprojectgitbase\bin\debug\testprojectgitbase.dll" id="87e9c074-17e6-8ed6-4023-5efd8b485db2">
+      <Execution id="425ae6cc-4c16-4499-9d88-1954d90c23c1" />
+      <TestMethod codeBase="C:/Users/emanuel/Documents/GitHub/AtualizaBase/TesteGitBase/TestProjectGitBase/bin/Debug/TestProjectGitBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectGitBase.Class1Test, TestProjectGitBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Class1ConstructorTest" />
+      <AspNet webSiteUrl="http://localhost:2855/">
+        <Host pathToWebApp="C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TesteGitBase" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="03bacf08-4ff0-c25e-7cc4-96d7c3017ec1" executionId="7bea81e6-4d96-465d-9607-376770bae5c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1d9f81c7-34cd-243f-0d45-4dd2adc116ae" executionId="74c827eb-98f7-41b2-b936-2ffd035f3c2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="371ec745-ddd5-cb6e-3e66-51cc2fdc4898" executionId="ad2d7f2c-3956-448b-b4af-fc42e25eff6f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4090b425-6fa8-d52f-56a0-55764a18eaf0" executionId="14b1aefa-aaf0-48df-8725-b5237927e9a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="87e9c074-17e6-8ed6-4023-5efd8b485db2" executionId="425ae6cc-4c16-4499-9d88-1954d90c23c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb25a13f-3b2b-0a0c-9a13-0752738746fb" executionId="3d757f42-f74b-421c-a2d7-cd2de3d19330" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7bea81e6-4d96-465d-9607-376770bae5c3" testId="03bacf08-4ff0-c25e-7cc4-96d7c3017ec1" testName="valorUmTest" computerName="DESK007" duration="00:00:00.2060118" startTime="2015-09-11T14:27:11.5933103-03:00" endTime="2015-09-11T14:27:11.7993221-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7bea81e6-4d96-465d-9607-376770bae5c3">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test 'valorUmTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="74c827eb-98f7-41b2-b936-2ffd035f3c2e" testId="1d9f81c7-34cd-243f-0d45-4dd2adc116ae" testName="valorDoisTest" computerName="DESK007" duration="00:00:00.1250072" startTime="2015-09-11T14:27:11.8103227-03:00" endTime="2015-09-11T14:27:11.9353299-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="74c827eb-98f7-41b2-b936-2ffd035f3c2e">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test 'valorDoisTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ad2d7f2c-3956-448b-b4af-fc42e25eff6f" testId="371ec745-ddd5-cb6e-3e66-51cc2fdc4898" testName="SomaTest" computerName="DESK007" duration="00:00:00.1960112" startTime="2015-09-11T14:27:11.9413302-03:00" endTime="2015-09-11T14:27:12.1373414-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad2d7f2c-3956-448b-b4af-fc42e25eff6f">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test 'SomaTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="14b1aefa-aaf0-48df-8725-b5237927e9a3" testId="4090b425-6fa8-d52f-56a0-55764a18eaf0" testName="Page_LoadTest" computerName="DESK007" duration="00:00:00.1070061" startTime="2015-09-11T14:27:12.1433418-03:00" endTime="2015-09-11T14:27:12.2503479-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14b1aefa-aaf0-48df-8725-b5237927e9a3">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test 'Page_LoadTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="425ae6cc-4c16-4499-9d88-1954d90c23c1" testId="87e9c074-17e6-8ed6-4023-5efd8b485db2" testName="Class1ConstructorTest" computerName="DESK007" duration="00:00:00.1970113" startTime="2015-09-11T14:27:12.2533480-03:00" endTime="2015-09-11T14:27:12.4503593-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="425ae6cc-4c16-4499-9d88-1954d90c23c1">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test 'Class1ConstructorTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3d757f42-f74b-421c-a2d7-cd2de3d19330" testId="fb25a13f-3b2b-0a0c-9a13-0752738746fb" testName="_DefaultConstructorTest" computerName="DESK007" duration="00:00:00.2390137" startTime="2015-09-11T14:27:12.4553596-03:00" endTime="2015-09-11T14:27:12.6943733-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d757f42-f74b-421c-a2d7-cd2de3d19330">
+      <Output>
+        <ErrorInfo>
+          <Message>The test adapter 'WebHostAdapter' threw an exception while running test '_DefaultConstructorTest'. The web site could not be configured correctly; getting ASP.NET process information failed. Requesting 'http://localhost:2855/VSEnterpriseHelper.axd' returned an error: O servidor remoto retornou um erro: (500) Erro Interno do Servidor.
+O servidor remoto retornou um erro: (500) Erro Interno do Servidor.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
