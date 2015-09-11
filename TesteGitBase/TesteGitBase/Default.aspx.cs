@@ -10,7 +10,8 @@ namespace TesteGitBase
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string dado = "";
+            string dado = "C";
+            dado = "A";
         }
     }
 }
