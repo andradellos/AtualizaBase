@@ -1,0 +1,7 @@
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\bin\Debug\TestProjectGitBase.dll
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\bin\Debug\TestProjectGitBase.pdb
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\TestProjectGitBase.csprojResolveAssemblyReference.cache
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\TestProjectGitBase.dll
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\obj\Debug\TestProjectGitBase.pdb
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\bin\Debug\TesteGitBase.dll
+C:\Users\emanuel\Documents\GitHub\AtualizaBase\TesteGitBase\TestProjectGitBase\bin\Debug\TesteGitBase.pdb
